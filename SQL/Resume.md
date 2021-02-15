@@ -7,6 +7,7 @@
 | Utiliser une base de données	 | USE nomBD |
 | Effacer une base de données	 | DROP  DATABASE  nomDeLaBD |
 
+<<<<<<< HEAD
 ## Gestion des tables
 
 | Description | Requête | 
