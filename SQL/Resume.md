@@ -8,19 +8,24 @@
     </thead>
     <tbody>
         <tr>
-            <td rowspan=4>L1 Name</td>
-            <td rowspan=2>L2 Name A</td>
-            <td>L3 Name A</td>
+            <td rowspan=4>Gestion des bases de données</td>
         </tr>
         <tr>
-            <td>L3 Name B</td>
+            <td>Créer une BD (sur Cogito nomDeLaDB = tixxx)</td>
+            <td>CREATE DATABASE nomDeLaBD;</td>
         </tr>
         <tr>
-            <td rowspan=2>L2 Name B</td>
-            <td>L3 Name C</td>
+            <td>Afficher les bases de données existantes</td>
+            <td>SHOW DATABASES;</td>
         </tr>
         <tr>
-            <td>L3 Name D</td>
+            <td>Utiliser une base de données</td>
+            <td>USE nomBD;</td>
         </tr>
+        <tr>
+            <td>Effacer une base de données</td>
+            <td>DROP DATABASE nomDeLaBD;</td>
+        </tr>
+
     </tbody>
 </table>
