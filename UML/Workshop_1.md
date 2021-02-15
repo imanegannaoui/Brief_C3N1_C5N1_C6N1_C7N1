@@ -1,10 +1,10 @@
 # Step 1 : Conception d'un système de suivi des projets
 
 ## Objectifs :
-Élaborer les diagrammes des cas d’utilisation.
-Élaborer les digrammes de séquence boite noir.
-Élaborer le digramme de classe.
-Élaborer les digrammes de séquence boite blanche.
+* Élaborer les diagrammes des cas d’utilisation.
+* Élaborer les digrammes de séquence boite noir.
+* Élaborer le digramme de classe.
+* Élaborer les digrammes de séquence boite blanche.
 
 ## Énoncé :  
 Il s'agit de concevoir une application permettant de gérer les projets au sein d'une société de services (développement, étude, …).
@@ -48,7 +48,7 @@ Facturer les phases terminées.
 Faire des recherches par période pour avoir les phases terminées mains non facturées, les phases facturées mais non payé, les phases payées, … 
 
 ## T.A.F :
-Élaborer les diagrammes des cas d’utilisation.
-Élaborer les digrammes de séquence boite noir.
-Élaborer le digramme de classe.
-Élaborer les digrammes de séquence boite blanche.
+* Élaborer les diagrammes des cas d’utilisation.
+* Élaborer les digrammes de séquence boite noir.
+* Élaborer les digrammes de séquence boite blanche.
+* Élaborer le digramme de classe.
