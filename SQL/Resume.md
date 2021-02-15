@@ -1,14 +1,14 @@
 <table>
     <thead>
         <tr>
-            <th>Layer 1</th>
-            <th>Layer 2</th>
-            <th>Layer 3</th>
+            <th>Gestion</th>
+            <th>Description</th>
+            <th>Requête</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td rowspan=4>Gestion des bases de données</td>
+            <td rowspan=5>Gestion des bases de données</td>
         </tr>
         <tr>
             <td>Créer une BD (sur Cogito nomDeLaDB = tixxx)</td>
