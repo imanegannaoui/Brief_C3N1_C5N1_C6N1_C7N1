@@ -46,5 +46,5 @@ Cette application doit permettre :
 
 ## T.A.F :
 * Élaborer les diagrammes des cas d’utilisation.
-* Élaborer les digrammes de séquence.
+* Élaborer les digrammes de séquence boite noire et boite blanche.
 * Élaborer le digramme de classe.
