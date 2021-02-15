@@ -64,6 +64,50 @@
         <tr>
             <td>Effacer une table</td>
             <td>DROP TABLE <i>nomDeLaTable;</i></td>
-        </tr>     
+        </tr>
+        <tr>
+            <td rowspan=9>Gestions des données</td>
+        </tr>
+        <tr>
+            <td rowspan=3>Ajouter des données</td>
+        </tr>
+        <tr>
+            <td>INSERT INTO <i>nomDeLaTable</i>
+                VALUES  (valeur1,  valeur2, …);</td>
+        </tr>
+        <tr>
+            <td>INSERT  INTO <i>nomDeLaTable  (nomDeLaColonne1, nomDeLaColonne2, ...)</i>
+                VALUES  (valeur1,  valeur2,  …);</td>
+        </tr>
+        <tr>
+            <td>Afficher des données</td>
+            <td>SELECT <i>nomDeLaColonne1, nomDeLaColonne2,  ...</i>
+                FROM  <i>nomDeLaTable</i>
+                WHERE <i>certainnesColonnes=CertainesValeurs</i>
+                GROUP BY  <i>nomDeLaColonne</i>
+                ORDER BY  <i>nomDeLaColonne   AttributD'ordre;</i>
+             </td>
+        </tr>
+        <tr>
+            <td>Mises à jour de données	</td>
+            <td>UPDATE  <i>nomDeLaTable</i>
+                SET  <i>nomDeLaColonne1=valeur1, nomDeLaColonne2=valeur2, …</i>
+                WHERE <i>certainnesColonnes=CertainesValeurs;</i>
+            </td>
+        </tr>
+        <tr>
+            <td>Modifier l’affichage du nom de colonne</td>
+            <td>SELECT … FROM … AS  <i>nomAlias;</i></td>
+        </tr>
+        <tr>
+            <td>Recherche d'un pattern. (Retourne ici ce qui commence par ‘a’)	</td>
+            <td>SELECT … FROM … WHERE … LIKE ‘a%’;</td>
+        </tr>
+        <tr>
+            <td>Effacer des données	</td>
+            <td>"DELETE  FROM <i>nomDeLaTable</i>
+                WHERE <i>certainnesColonnes=CertainesValeurs;</i></td>
+        </tr>
+  
     </tbody>
 </table>
