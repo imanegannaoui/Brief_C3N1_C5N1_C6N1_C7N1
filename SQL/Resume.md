@@ -18,17 +18,16 @@
             <td>Quitter MySQL</td>
             <td>QUIT;</td>
         </tr>
-        "<tr>
+        <tr>
             <td>Exécuter un script .sql (le chemin, lorsque nécessaire, peut être
                 en mode absolu ou relatif. En mode relatif, le point de référence est le répertoire actif lors de la
                 connexion à MySQL)</td>
             <td>SOURCE chemin/nomDuFichier.sql;</td>
-        </tr>"
+        </tr>
         <tr>
             <td>Annuler une commande en cours de frappe</td>
             <td>\c</td>
         </tr>
-
         <tr>
             <td rowspan=6>Gestion des bases de données</td>
         </tr>
@@ -204,29 +203,24 @@
         <tr>
             <td rowspan=5>Fonctions</td>
         </tr>
-        "<tr>
+        <tr>
             <td>Fonctions mathématiques</td>
             <td>SUM(nomDeLaColonne), MIN(nomDeLaColonne),
                 MAX(nomDeLaColonne), AVG(nomDeLaColonne), COUNT(nomDeLaColonne), COUNT(*)</td>
-        </tr>"
+        </tr>
         <tr>
             <td>Fonction génératrices de dates</td>
             <td>NOW(), CURDATE(), CURRENT_DATE(), CURTIME()</td>
         </tr>
-        "<tr>
+        <tr>
             <td>Fonctions pour extraire de l'information à partir
                 des dates</td>
             <td>YEAR(uneDate), MONTH(uneDate),
                 DAYOFMONTH(uneDate), TO_DAYS(uneDate)</td>
-        </tr>"
+        </tr>
         <tr>
             <td>Fonctions de concaténation</td>
             <td>CONCAT(nomDeLaColonne1, nomDeLaColonne2, ...)</td>
         </tr>
-
-
-
-
-
     </tbody>
 </table>
