@@ -8,6 +8,28 @@
     </thead>
     <tbody>
         <tr>
+            <td rowspan=5>Connexion et exécution de script</td>
+        </tr>
+        <tr>
+            <td>Connexion à MySQL (via la console unix)</td>
+            <td>mysql ‐u nomUsager ‐p</td>
+        </tr>
+        <tr>
+            <td>Quitter MySQL</td>
+            <td>QUIT;</td>
+        </tr>
+        "<tr>
+            <td>Exécuter un script .sql (le chemin, lorsque nécessaire, peut être
+                en mode absolu ou relatif. En mode relatif, le point de référence est le répertoire actif lors de la
+                connexion à MySQL)</td>
+            <td>SOURCE chemin/nomDuFichier.sql;</td>
+        </tr>"
+        <tr>
+            <td>Annuler une commande en cours de frappe</td>
+            <td>\c</td>
+        </tr>
+
+        <tr>
             <td rowspan=6>Gestion des bases de données</td>
         </tr>
         <tr>
@@ -176,8 +198,6 @@
         </tr>
         <tr>
             <td>Opérateurs</td>
-        </tr>
-        <tr>
             <td>Opérateurs</td>
             <td>AND, OR, NOT, =, !=, <,>, +, ‐, *, /</td>
         </tr>
