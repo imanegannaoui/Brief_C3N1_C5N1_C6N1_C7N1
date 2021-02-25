@@ -1,0 +1,27 @@
+<html>
+   <head>
+      <script type="text/javascript"> 
+         function refresh(){
+             var t = 1000; // rafraîchissement en millisecondes 1000 ms = 1s
+             setTimeout('showDate()',t) // Appel de la fonction showDate
+         }
+         
+         function showDate() {
+             var date = new Date() // Créer un objet de type Date
+             var h = date.getHours(); // Récupérer les heures avec une fonction prédéfinie
+             var m = date.getMinutes();
+             var s = date.getSeconds();
+             if( h < 10 ){ h = '0' + h; } 
+             if( m < 10 ){ m = '0' + m; }
+             if( s < 10 ){ s = '0' + s; }
+             var time = h + ':' + m + ':' + s // Affectation
+             document.getElementById('horloge').innerHTML = time; //DOM
+             refresh();
+          }
+      </script>
+   </head>
+   <body onload=showDate();>
+       <h1>Horloge Digital en Javascript</h1>
+      <span id='horloge' style="background-color:#1C1C1C;color:silver;font-size:40px;"></span>
+   </body>
+</html>
