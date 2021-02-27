@@ -12,10 +12,10 @@ Unlike the standard web frameworks, a __PHP__ file is actually an ``enhanced`` *
 * Functions
 
 ## Essential Training
-* [Workshop_01](https://github.com/imanegannaoui/Brief_C3N1_C5N1_C6N1_C7N1/blob/main/PHP/Workshop_01.md)
-* [Workshop_02](https://github.com/imanegannaoui/Brief_C3N1_C5N1_C6N1_C7N1/blob/main/PHP/Workshop_02.md)
-* [Workshop_03](https://github.com/imanegannaoui/Brief_C3N1_C5N1_C6N1_C7N1/blob/main/PHP/Workshop_03.md)
-* [Workshop_04](https://github.com/imanegannaoui/Brief_C3N1_C5N1_C6N1_C7N1/blob/main/PHP/Workshop_04.md)
+* [Workshop_01](https://github.com/imanegannaoui/Brief_C3N1_C5N1_C6N1_C7N1/blob/main/PHP/Workshop/Workshop_01.md)
+* [Workshop_02](https://github.com/imanegannaoui/Brief_C3N1_C5N1_C6N1_C7N1/blob/main/PHP/Workshop/Workshop_02.md)
+* [Workshop_03](https://github.com/imanegannaoui/Brief_C3N1_C5N1_C6N1_C7N1/blob/main/PHP/Workshop/Workshop_03.md)
+* [Workshop_04](https://github.com/imanegannaoui/Brief_C3N1_C5N1_C6N1_C7N1/blob/main/PHP/Workshop/Workshop_04.md)
 
 ## Snippets
 
