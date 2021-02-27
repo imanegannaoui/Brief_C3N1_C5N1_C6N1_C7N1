@@ -23,4 +23,4 @@ Unlike the standard web frameworks, a __PHP__ file is actually an ``enhanced`` *
 
 ## Brief Project
 
-* En cours....
+* [Lien du Brief](https://github.com/imanegannaoui/Brief_C3N1_C5N1_C6N1_C7N1/blob/main/Brief.md)
