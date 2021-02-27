@@ -17,14 +17,14 @@
 
 2. Affichage de code HTML
 
-![Affichage de code HTML](https://github.com/imanegannaoui/Brief_C3N1_C5N1_C6N1_C7N1/tree/main/PHP/images/image_2.png)
+![Affichage de code HTML](https://github.com/imanegannaoui/Brief_C3N1_C5N1_C6N1_C7N1/blob/main/PHP/images/image_2.png)
 
 3. Affichage changeant
 
-![Affichage changeant](https://github.com/imanegannaoui/Brief_C3N1_C5N1_C6N1_C7N1/tree/main/PHP/images/image_3.png)
+![Affichage changeant](https://github.com/imanegannaoui/Brief_C3N1_C5N1_C6N1_C7N1/blob/main/PHP/images/image_3.png)
 
 4. Variables textes et numériques
 
-![Variables textes et numériques](https://github.com/imanegannaoui/Brief_C3N1_C5N1_C6N1_C7N1/tree/main/PHP/images/image_4.png)
+![Variables textes et numériques](https://github.com/imanegannaoui/Brief_C3N1_C5N1_C6N1_C7N1/blob/main/PHP/images/image_4.png)
 
 
