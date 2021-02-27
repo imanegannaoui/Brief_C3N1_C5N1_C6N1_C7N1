@@ -5,12 +5,12 @@ Unlike the standard web frameworks, a __PHP__ file is actually an ``enhanced`` *
 ## Learn the Basics
 * Basic
 * Variables and Types
-* Simple arrays
-* Arrays with keys
-* Multidimensional arrays
 * Strings
 * For loops
 * While loops
+* Simple arrays
+* Arrays with keys
+* Multidimensional arrays
 * Functions
 * Objects
 * Exceptions
