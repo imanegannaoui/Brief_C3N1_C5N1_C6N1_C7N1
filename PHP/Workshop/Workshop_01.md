@@ -16,6 +16,7 @@
 ![Affichage simple en PHP et HTML](https://github.com/imanegannaoui/Brief_C3N1_C5N1_C6N1_C7N1/blob/main/PHP/images/image_1.png)
 
 2. Affichage de code HTML
+<img src="https://github.com/imanegannaoui/Brief_C3N1_C5N1_C6N1_C7N1/blob/main/PHP/images/image_1.png" alt="img">
 
 ![Affichage de code HTML](https://github.com/imanegannaoui/Brief_C3N1_C5N1_C6N1_C7N1/blob/main/PHP/images/image_2.png)
 
